@@ -1,4 +1,4 @@
-# Flask Apache Server
+# Item Catalog Apache Server
 > project url: http://catalog.cjndubisi.com 
 > project ip: http://18.217.54.175
 
