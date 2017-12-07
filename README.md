@@ -8,7 +8,7 @@
 - [x] Change the SSH port from 22 to 2200.
 - [x] Update systems firewall, ufw, to allow incoming connections on ports 2200 (TCP, SSH), 80 (HTTP) and 123 (NTP).
 - [x] Disable remote connection for postresql database
-- [x] New user `grader` with sudo priviledges
+- [x] Add new user `grader` with sudo privileges
 
 # Installed Packages
 Listed below are the packages required to complete the flask application.
