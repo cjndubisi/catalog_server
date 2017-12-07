@@ -31,6 +31,7 @@ sudo apt-get install git
 
 # SSH  into Server
 Use the grader user to ssh into the sever on port `2200` with `grader_pass` as password.
+
 `ssh -p 2200 /path/to/ssh/key grader@18.217.54.175`
 
 ---
