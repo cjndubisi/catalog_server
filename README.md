@@ -14,10 +14,7 @@
 Listed below are the packages required to complete the flask application.
 ````
 # Python 3
-sudo apt-get install python3
-
-# Python 3 WSGI adapter module for Apache
-sudo apt-get install python3-setuptools
+sudo apt-get install python3 python3-setuptools
 
 # Apache Sever to host the Flask application
 sudo apt-get install apache2 
